@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    margin-top: -4px;
+}
+.content{
+    text-align: center;
+    border: 2px solid black;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input:focus{
+    border: 3px solid #555;
+}
